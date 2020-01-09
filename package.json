@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/okoshi7010/webpack-crash-course#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
     "live-server": "^1.2.1",
