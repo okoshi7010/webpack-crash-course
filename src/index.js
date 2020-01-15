@@ -1,7 +1,6 @@
 import _ from "lodash"
-import * as utilities from './utilities'
+import './style.css'
 
-console.log(utilities.Nijou(100))
 function component() {
   const element = document.createElement('div');
   const array = ['Hello', 'webpack', '!!']
@@ -10,3 +9,4 @@ function component() {
 }
 
 document.body.appendChild(component());
+document.body.classList.add(('haikei'));
